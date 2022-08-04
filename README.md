@@ -8,6 +8,9 @@ Python libraries developed to control Anritsu MS2830A and Agilent N9020A machine
 
 ![Anritsu machine](img/ANRITSU_MS2830A.jpg "Anritsu machine")    ![Agilent machine](img/N9020A_AGILENT.png "Agilent machine")
 
+<img src="img/N9020A_AGILENT.png" width="120" height="120">
+
+
 ## Starting 🚀
 
 _These instructions will allow you to get a working copy of the project on your local machine for development and testing purposes.._
