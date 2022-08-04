@@ -6,7 +6,7 @@
 Python libraries developed to control Anritsu MS2830A and Agilent N9020A machines remotely via Ethernet.
 
 
-![Anritsu machine](img/ANRITSU_MS2830A.jpg "Anritsu machine")  <img src="img/N9020A_AGILENT.png" width="320" height="195">
+![Anritsu machine](images/ANRITSU_MS2830A.jpg "Anritsu machine")  <img src="images/N9020A_AGILENT.png" width="320" height="195">
 
 
 ## Starting 🚀
